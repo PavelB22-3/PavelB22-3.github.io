@@ -5,8 +5,26 @@
         <description>Recent content in Posts on My Lab4</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>en-us</language>
-        <lastBuildDate>Sun, 14 Sep 2025 17:42:01 +0300</lastBuildDate>
+        <lastBuildDate>Sun, 14 Sep 2025 18:51:49 +0300</lastBuildDate>
         <atom:link href="https://PavelB22-3.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+        
+        <item>
+            <title>Lab4</title>
+            <link>https://PavelB22-3.github.io/posts/lab4/</link>
+            <pubDate>Sun, 14 Sep 2025 18:51:49 +0300</pubDate>
+            
+            <guid>https://PavelB22-3.github.io/posts/lab4/</guid>
+            <description>&lt;p&gt;Hello and welcome in my new post&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://PavelB22-3.github.io/images/cat.jpg&#34; alt=&#34;Cute citten&#34;&gt;&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;&#34;&gt;&lt;code class=&#34;language-python&#34; data-lang=&#34;python&#34;&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#66d9ef&#34;&gt;def&lt;/span&gt; &lt;span style=&#34;color:#a6e22e&#34;&gt;hello&lt;/span&gt;():
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;  print(&lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#34;Miau!&amp;#34;&lt;/span&gt;)
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;</description>
+            <content type="html"><![CDATA[<p>Hello and welcome in my new post</p>
+<p><img src="/images/cat.jpg" alt="Cute citten"></p>
+<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-python" data-lang="python"><span style="display:flex;"><span><span style="color:#66d9ef">def</span> <span style="color:#a6e22e">hello</span>():
+</span></span><span style="display:flex;"><span>  print(<span style="color:#e6db74">&#34;Miau!&#34;</span>)
+</span></span></code></pre></div>]]></content>
+        </item>
         
         <item>
             <title>Home</title>
