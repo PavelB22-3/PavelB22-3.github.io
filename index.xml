@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>My Lab4</title>
+    <link>https://PavelB22-3.github.io/</link>
+    <description>Recent content on My Lab4</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 14 Sep 2025 17:42:01 +0300</lastBuildDate>
+    <atom:link href="https://PavelB22-3.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Home</title>
+      <link>https://PavelB22-3.github.io/posts/home/</link>
+      <pubDate>Sun, 14 Sep 2025 17:42:01 +0300</pubDate>
+      <guid>https://PavelB22-3.github.io/posts/home/</guid>
+      <description>&lt;p&gt;Educational fair use guidelines apply to material that is used by studetns or faculty of educational isntitutions&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
